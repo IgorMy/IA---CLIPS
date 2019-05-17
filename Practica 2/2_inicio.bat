@@ -1,0 +1,6 @@
+(clear)
+(load "C:/users/igor/Escritorio/Mega/UHU/Segundo Curso/Segundo Cuatrimestre/Inteligencia_artificial/Practicas - Entrega/Practica 2/2_alarma.clp")
+(load "C:/users/igor/Escritorio/Mega/UHU/Segundo Curso/Segundo Cuatrimestre/Inteligencia_artificial/Practicas - Entrega/Practica 2/2_alarma.datos.clp")
+(reset)
+(assert (Emergencia (tipo ClaseB) (sector A)))
+(run)
