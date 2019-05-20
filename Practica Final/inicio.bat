@@ -1,0 +1,5 @@
+(clear)
+(load "busqueda.clp")
+(load "datos.clp")
+(reset)
+(run)

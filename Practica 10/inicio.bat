@@ -1,0 +1,5 @@
+(clear)
+(load "10_dependencias.clp")
+(load "10_dependencias.datos.clp")
+(reset)
+(run)
