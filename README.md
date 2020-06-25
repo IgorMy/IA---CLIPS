@@ -1,4 +1,4 @@
-# Repositorio de almacenamiento de practicas
+# Repositorio de almacenamiento de practicas de Inteligencia Artificial
 :office: Universidad de Huelva (UHU)  
 :calendar: Curso 2018-2019  
 :mortar_board:Inteligencia Artificial  
